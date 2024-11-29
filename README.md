@@ -10,13 +10,14 @@
 ### **Project Structure**
 The project is divided into the following main stages:
 
-1. Report.pdf 
-2. ETL-Transformation
-3. ETS-Transformation
-4. Data Modeling
-5. DAX
-6. Data (Data Folder)
-7. Power BI (.pbix file) 
+1. Project Summary.pdf 
+2. ETL-Transformation.pdf
+3. ETS-Transformation2.pdf
+4. Data Modeling.pdf
+5. DAX.pdf
+6. Report.pdf
+7. Data File
+8. Power BI.pbix
 
 
 ### **How to Run the Project**
