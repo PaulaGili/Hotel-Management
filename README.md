@@ -17,7 +17,7 @@ The project is divided into the following main stages:
 5. DAX.pdf
 6. Report.pdf
 7. Data File
-8. Power BI.pbix
+8. Gestion-Hotelera.pbix
 
 
 ### **How to Run the Project**
